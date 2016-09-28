@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Creator: fig2dev Version 3.2 Patchlevel 5-alpha7 -->
+
 <!-- CreationDate: Thu Mar 15 10:06:27 2007 -->
+
 <!-- Magnification: 1.000 -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -15,10 +18,9 @@
    viewBox="1635 3045 4033 2235"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.46"
-   sodipodi:docname="Crank-Nicolson-stencil.svg"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Explicit_method-stencil.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   sodipodi:docbase="/home/berland/tmp"
    version="1.0">
   <metadata
      id="metadata39">
@@ -42,8 +44,8 @@
        id="perspective22" />
   </defs>
   <sodipodi:namedview
-     inkscape:window-height="667"
-     inkscape:window-width="822"
+     inkscape:window-height="1020"
+     inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      guidetolerance="10.0"
@@ -54,12 +56,13 @@
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="1.5251323"
-     inkscape:cx="118.86704"
-     inkscape:cy="82.419935"
-     inkscape:window-x="48"
-     inkscape:window-y="96"
-     inkscape:current-layer="g4">
+     inkscape:zoom="3.0502646"
+     inkscape:cx="161.68787"
+     inkscape:cy="47.049193"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:current-layer="svg2"
+     inkscape:window-maximized="1">
     <inkscape:grid
        id="GridFromPre046Settings"
        type="xygrid"
@@ -74,102 +77,80 @@
        empspacing="0" />
   </sodipodi:namedview>
   <g
-     style="fill:none;stroke:#000000;stroke-width:0.025in"
-     id="g4"
-     transform="translate(-304.29395,-39.539278)">
+     id="g4940">
     <polyline
        points="2400,4800 4800,4800 "
-       style="fill:#555500;stroke:#000000;stroke-width:30;stroke-linecap:butt;stroke-linejoin:miter;font-family:Bitstream Vera Sans Mono;font-weight:normal;font-style:oblique;font-stretch:normal;font-variant:normal;font-size:228.28814657px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+       style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:228.28814697px;line-height:125%;font-family:'Bitstream Vera Sans Mono';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555500;stroke:#000000;stroke-width:30;stroke-linecap:butt;stroke-linejoin:miter"
        id="polyline10"
-       transform="matrix(1.1336844,0,0,1.1336844,-210.352,-476.98039)" />
-<!-- Line -->    <polyline
+       transform="matrix(1.1336844,0,0,1.1336844,-514.64595,-516.51967)" />
+    <polyline
        points="3600,4800 3600,3600 "
-       style="fill:#555500;stroke:#000000;stroke-width:30;stroke-linecap:butt;stroke-linejoin:miter;font-family:Bitstream Vera Sans Mono;font-weight:normal;font-style:oblique;font-stretch:normal;font-variant:normal;font-size:228.28814657px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+       style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:228.28814697px;line-height:125%;font-family:'Bitstream Vera Sans Mono';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555500;stroke:#000000;stroke-width:30;stroke-linecap:butt;stroke-linejoin:miter"
        id="polyline6"
-       transform="matrix(1.1336844,0,0,1.1336844,-210.352,-476.98039)" />
-<!-- Line --><!-- Line --><!-- Text --><!-- Text --><!-- Text --><!-- Text --><!-- Text -->    <text
+       transform="matrix(1.1336844,0,0,1.1336844,-514.64595,-516.51967)" />
+    <text
        xml:space="preserve"
-       x="3446.2056"
-       y="3262.4165"
+       x="3141.9116"
+       y="3222.8772"
        font-style="normal"
        font-weight="normal"
        font-size="240"
        id="text20"
-       style="font-size:258.80670166px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:2.55078983;font-family:Bitstream Vera Sans Mono"
-       sodipodi:linespacing="125%">j,n+1</text>
-<!-- Text --><!-- Circle -->    <circle
-       cx="3600"
-       cy="4800"
-       r="75"
-       style="fill:#be0000;stroke:#000000;stroke-width:30;font-family:Bitstream Vera Sans Mono;font-weight:normal;font-style:oblique;font-stretch:normal;font-variant:normal;font-size:228.28814657px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;fill-opacity:1"
-       id="circle24"
-       sodipodi:cx="3600"
-       sodipodi:cy="4800"
-       sodipodi:rx="75"
-       sodipodi:ry="75"
-       transform="matrix(1.1336844,0,0,1.1336844,-210.352,-476.98039)" />
-<!-- Circle -->    <circle
-       cx="3600"
-       cy="3525"
-       r="75"
-       style="fill:#be0000;stroke:#000000;stroke-width:30;font-family:Bitstream Vera Sans Mono;font-weight:normal;font-style:oblique;font-stretch:normal;font-variant:normal;font-size:228.28814657px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;fill-opacity:1"
-       id="circle26"
-       sodipodi:cx="3600"
-       sodipodi:cy="3525"
-       sodipodi:rx="75"
-       sodipodi:ry="75"
-       transform="matrix(1.1336844,0,0,1.1336844,-210.352,-476.98039)" />
-<!-- Circle --><!-- Circle --><!-- Circle --><!-- Circle -->    <circle
-       cx="4800"
-       cy="4800"
-       r="75"
-       style="fill:#be0000;stroke:#000000;stroke-width:30;font-family:Bitstream Vera Sans Mono;font-weight:normal;font-style:oblique;font-stretch:normal;font-variant:normal;font-size:228.28814657px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;fill-opacity:1"
-       id="circle34"
-       sodipodi:cx="4800"
-       sodipodi:cy="4800"
-       sodipodi:rx="75"
-       sodipodi:ry="75"
-       transform="matrix(1.1336844,0,0,1.1336844,-210.352,-476.98039)" />
+       style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:258.80670166px;line-height:125%;font-family:'Bitstream Vera Sans Mono';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:2.55078983"
+       sodipodi:linespacing="125%">x,t+1</text>
+    <circle
+       cx="3566.6179"
+       cy="4925.1655"
+       r="85.026329"
+       style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:228.28814697px;line-height:125%;font-family:'Bitstream Vera Sans Mono';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#be0000;fill-opacity:1;stroke:#000000;stroke-width:34.01053238"
+       id="circle24" />
+    <circle
+       cx="3566.6179"
+       cy="3479.7178"
+       r="85.026329"
+       style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:228.28814697px;line-height:125%;font-family:'Bitstream Vera Sans Mono';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#be0000;fill-opacity:1;stroke:#000000;stroke-width:34.01053238"
+       id="circle26" />
+    <circle
+       cx="4927.0391"
+       cy="4925.1655"
+       r="85.026329"
+       style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:228.28814697px;line-height:125%;font-family:'Bitstream Vera Sans Mono';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#be0000;fill-opacity:1;stroke:#000000;stroke-width:34.01053238"
+       id="circle34" />
     <text
        xml:space="preserve"
-       x="2146.7063"
-       y="5364.106"
+       x="1842.4124"
+       y="5324.5669"
        font-style="normal"
        font-weight="normal"
        font-size="240"
        id="text12"
-       style="font-size:258.80671048px;font-style:oblique;font-weight:normal;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:2.55078983;font-family:Bitstream Vera Sans Mono;font-stretch:normal;font-variant:normal;text-align:start;writing-mode:lr;line-height:125%"
-       sodipodi:linespacing="125%">j-1,n</text>
+       style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:258.80670166px;line-height:125%;font-family:'Bitstream Vera Sans Mono';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:2.55078983"
+       sodipodi:linespacing="125%">x-1,t</text>
     <text
        xml:space="preserve"
-       x="3672.7891"
-       y="5338.2358"
+       x="3368.4951"
+       y="5298.6968"
        font-style="normal"
        font-weight="normal"
        font-size="240"
        id="text14"
-       style="font-size:258.80670166px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:2.55078983;font-family:Bitstream Vera Sans Mono"
-       sodipodi:linespacing="125%">j,n</text>
+       style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:258.80670166px;line-height:125%;font-family:'Bitstream Vera Sans Mono';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:2.55078983"
+       sodipodi:linespacing="125%">x,t</text>
     <text
        xml:space="preserve"
-       x="4898.0684"
-       y="5338.2358"
+       x="4593.7744"
+       y="5298.6968"
        font-style="normal"
        font-weight="normal"
        font-size="240"
        id="text16"
-       style="font-size:258.80671048px;font-style:oblique;font-weight:normal;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:2.55078983;font-family:Bitstream Vera Sans Mono;font-stretch:normal;font-variant:normal;text-align:start;writing-mode:lr;line-height:125%"
-       sodipodi:linespacing="125%">j+1,n</text>
+       style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:258.80670166px;line-height:125%;font-family:'Bitstream Vera Sans Mono';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:2.55078983"
+       sodipodi:linespacing="125%">x+1,t</text>
     <circle
-       cx="2400"
-       cy="4800"
-       r="75"
-       style="fill:#be0000;stroke:#000000;stroke-width:30;font-family:Bitstream Vera Sans Mono;font-weight:normal;font-style:oblique;font-stretch:normal;font-variant:normal;font-size:228.28814657px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;fill-opacity:1"
-       id="circle32"
-       sodipodi:cx="2400"
-       sodipodi:cy="4800"
-       sodipodi:rx="75"
-       sodipodi:ry="75"
-       transform="matrix(1.1336844,0,0,1.1336844,-210.352,-476.98039)" />
+       cx="2206.1965"
+       cy="4925.1655"
+       r="85.026329"
+       style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:228.28814697px;line-height:125%;font-family:'Bitstream Vera Sans Mono';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#be0000;fill-opacity:1;stroke:#000000;stroke-width:34.01053238"
+       id="circle32" />
   </g>
 </svg>
